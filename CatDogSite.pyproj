@@ -48,9 +48,6 @@
     <Content Include="CatDogSite\templates\events-details.html" />
     <Content Include="CatDogSite\templates\events.html" />
     <Content Include="CatDogSite\templates\gallery.html" />
-    <Content Include="CatDogSite\templates\index-2.html" />
-    <Content Include="CatDogSite\templates\index-3.html" />
-    <Content Include="CatDogSite\templates\index-4.html" />
     <Content Include="CatDogSite\templates\mission-and-vision.html" />
     <Content Include="CatDogSite\templates\service.html" />
     <Content Include="requirements.txt" />
