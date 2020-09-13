@@ -1,0 +1,1 @@
+X:\EPAM\практика\WebSite\CatDogSite\obj\Any CPU\Debug\CatDogSite.pyproj.CoreCompileInputs.cache
