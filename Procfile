@@ -1,1 +1,1 @@
-web: python runserver.py
+web: gunicorn --bind 0.0.0.0:${PORT} wsgi; python runserver.py
